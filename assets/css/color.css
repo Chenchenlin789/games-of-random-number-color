@@ -1,0 +1,12 @@
+div {
+    margin: 28%;
+    padding-left: 16%
+}
+
+input {
+    padding: 1em;
+    background-color: cadetblue;
+    color: white;
+    border: 1px solid white;
+    border-radius: 8px;
+}
